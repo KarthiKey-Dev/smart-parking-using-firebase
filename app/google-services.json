@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "525824507614",
+    "firebase_url": "https://login-ecb5e.firebaseio.com",
+    "project_id": "login-ecb5e",
+    "storage_bucket": "login-ecb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525824507614:android:f30f6a449f9ee64babcc4f",
+        "android_client_info": {
+          "package_name": "com.firebase.a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525824507614-l0b56v1kd0rca8qnvs46qqh81ch4rdgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqaXVszlv5fQaK06_lEHJIzZl96BL95s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525824507614-l0b56v1kd0rca8qnvs46qqh81ch4rdgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525824507614:android:bc6e0367e7564174abcc4f",
+        "android_client_info": {
+          "package_name": "com.iot.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525824507614-5es9gt7ncd3dvu9n1o4vfe741l6duon6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iot.smartparking",
+            "certificate_hash": "910e02cf627eba38c21bc07e919084791b9ab660"
+          }
+        },
+        {
+          "client_id": "525824507614-l0b56v1kd0rca8qnvs46qqh81ch4rdgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqaXVszlv5fQaK06_lEHJIzZl96BL95s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525824507614-l0b56v1kd0rca8qnvs46qqh81ch4rdgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
